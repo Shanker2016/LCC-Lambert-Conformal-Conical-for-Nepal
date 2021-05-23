@@ -5,8 +5,10 @@
 2. Compute and analyze distortion factor caused by LCC over Nepal
 
 # What are parameters of LCC projection?
-1.
-2.
-3.
-4.
-6.
+For 2SP (2 standard parallels) LCC projection:
+1. SP1
+2. SP2
+3. Longitude of Origin
+4. Latitude of Origin
+6. False Easting
+7. False Northing
