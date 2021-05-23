@@ -4,3 +4,4 @@
 
 2. Compute and analyze distortion factor caused by LCC over Nepal
 
+# What are parameters of LCC projection?
