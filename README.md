@@ -14,3 +14,7 @@ For 2SP (2 standard parallels) LCC projection:
 7. False Northing
 
 ## How do we choose SP?
+General rule of choosing SPs is: Parallels of latitude which is 1/6th and 5/6th below the uppermost latitudinal bound.
+
+
+
